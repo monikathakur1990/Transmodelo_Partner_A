@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.trobbar.partner",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 4,
+      "versionName": "1.4",
+      "enabled": true,
+      "outputFile": "com.trobbar.partner_V4_VN-1.4_2021-05-12.apk"
+    }
+  ]
+}

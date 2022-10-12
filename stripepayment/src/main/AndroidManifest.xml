@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.beeproad.stripepayment">
+
+    <application>
+
+
+        <activity
+            android:name="com.beeproad.stripepayment.activity.add_card.StripeAddCardActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize" />
+
+
+    </application>
+
+</manifest>

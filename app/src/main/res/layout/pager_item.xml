@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout android:orientation="vertical" android:gravity="center" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView android:layout_height="150dp" android:layout_width="150dp" android:scaleType="fitCenter" android:padding="8dp" android:contentDescription="@string/app_name" android:clickable="false" android:adjustViewBounds="true" android:id="@+id/img_pager_item"/>
+
+    <TextView android:gravity="center_horizontal" android:layout_height="wrap_content" android:layout_width="match_parent" android:padding="8dp" android:id="@+id/title" android:textSize="18sp" android:textColor="@color/colorPrimary" android:text="@string/walk_1" android:fontFamily="@font/clanpro_medium"/>
+
+    <TextView android:gravity="center_horizontal" android:layout_height="wrap_content" android:layout_width="match_parent" android:padding="8dp" android:id="@+id/description" android:textSize="16sp" android:textColor="@color/colorSecondaryText" android:text="@string/lorum" android:maxLines="10"/>
+
+</LinearLayout>

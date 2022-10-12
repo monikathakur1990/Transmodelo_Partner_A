@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "933343625006",
+    "firebase_url": "https://ride-on-4778a.firebaseio.com",
+    "project_id": "ride-on-4778a",
+    "storage_bucket": "ride-on-4778a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933343625006:android:30cc67849be6643a3ec4bf",
+        "android_client_info": {
+          "package_name": "com.rideon.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933343625006-p4uged4lf0m70g39uqjt00sj2dgk66cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideon.partner",
+            "certificate_hash": "a0c4738a71fd7cab67c186ad8dbd739e49ebd539"
+          }
+        },
+        {
+          "client_id": "933343625006-8jgqg2noci5cv82hs6l3sg4c3tj2dghb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideon.partner",
+            "certificate_hash": "58e19b29aca9fd13fb230808c1e80a8cc80d8cf5"
+          }
+        },
+        {
+          "client_id": "933343625006-bld3m4ghkg56r15dj4ocm078d6upmurp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrut8At8F4Mk7jZvYCswCjwqEHzzkw_Lw"
+        },
+        {
+          "current_key": "AIzaSyC5vaZbSm3v81miLTmC3y_GRjGJyBl7HC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933343625006-1mr3gkcakni4bm2pqdnh3i5c0dk7vfid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933343625006-ug88k5m0st67pi0qjfkpcud10c0oh0h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideon.partner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933343625006:android:8109e96a44c9b6a33ec4bf",
+        "android_client_info": {
+          "package_name": "com.rideon.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933343625006-dj2t2b6u3r61cuk0jgle16qr2kri4ovn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideon.user",
+            "certificate_hash": "58e19b29aca9fd13fb230808c1e80a8cc80d8cf5"
+          }
+        },
+        {
+          "client_id": "933343625006-bld3m4ghkg56r15dj4ocm078d6upmurp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrut8At8F4Mk7jZvYCswCjwqEHzzkw_Lw"
+        },
+        {
+          "current_key": "AIzaSyC5vaZbSm3v81miLTmC3y_GRjGJyBl7HC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933343625006-1mr3gkcakni4bm2pqdnh3i5c0dk7vfid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933343625006-ug88k5m0st67pi0qjfkpcud10c0oh0h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideon.partner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933343625006:android:a607d703afa6c6c53ec4bf",
+        "android_client_info": {
+          "package_name": "com.rideongroup.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933343625006-bld3m4ghkg56r15dj4ocm078d6upmurp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrut8At8F4Mk7jZvYCswCjwqEHzzkw_Lw"
+        },
+        {
+          "current_key": "AIzaSyC5vaZbSm3v81miLTmC3y_GRjGJyBl7HC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933343625006-1mr3gkcakni4bm2pqdnh3i5c0dk7vfid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933343625006-ug88k5m0st67pi0qjfkpcud10c0oh0h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideon.partner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933343625006:android:f0b152b78e262a6a3ec4bf",
+        "android_client_info": {
+          "package_name": "com.rideongroup.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933343625006-bef84spka836703mg545487qqi5vp700.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideongroup.user",
+            "certificate_hash": "a0c4738a71fd7cab67c186ad8dbd739e49ebd539"
+          }
+        },
+        {
+          "client_id": "933343625006-qd4n89ejs6sjim1us1f9kp5ogbne61gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rideongroup.user",
+            "certificate_hash": "58e19b29aca9fd13fb230808c1e80a8cc80d8cf5"
+          }
+        },
+        {
+          "client_id": "933343625006-bld3m4ghkg56r15dj4ocm078d6upmurp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrut8At8F4Mk7jZvYCswCjwqEHzzkw_Lw"
+        },
+        {
+          "current_key": "AIzaSyC5vaZbSm3v81miLTmC3y_GRjGJyBl7HC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933343625006-1mr3gkcakni4bm2pqdnh3i5c0dk7vfid.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933343625006-ug88k5m0st67pi0qjfkpcud10c0oh0h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rideon.partner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

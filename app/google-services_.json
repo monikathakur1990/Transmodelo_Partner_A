@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30628599131",
+    "project_id": "gentle-app-331611",
+    "storage_bucket": "gentle-app-331611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30628599131:android:7db019ebe29411fee7b67e",
+        "android_client_info": {
+          "package_name": "com.transmodelo.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30628599131-tc1igr9ginntf4co034pqfn8rk7a1s89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transmodelo.conductor",
+            "certificate_hash": "779cac351779e887a4ba3d29e77cd799a573e929"
+          }
+        },
+        {
+          "client_id": "30628599131-84vm0i9va84uuerqlppaebph6n0ql7s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZ7P99bcxEL2f6oKhr5fZN_TiC2weXYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30628599131-84vm0i9va84uuerqlppaebph6n0ql7s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
